@@ -1,0 +1,5 @@
+name: Alexander.
+surname: Kanoda.
+patronymic: Sergeevich.
+pet: 1.
+salary: 1000.
