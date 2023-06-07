@@ -1,0 +1,5 @@
+favourite film: "Lord of The Rings".
+favourite series: "The Rookie".
+preferred food: "fried potatoes".
+favouiret season: "Autumn".
+Country I would like to visit: "Iceland".
