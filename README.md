@@ -9,7 +9,7 @@
 8. Отправить изменения на внешний репозиторий: `git add . && git commit -m "..." && git push`
 9. Создать файл preferences.txt: `touch preferences.txt`
 10. В файл preferences.txt” добавить информацию о своих предпочтениях (Любимый к/ф,любимый т/с, любимая еда, время года, сторона которую хотели бы посетить) в формате TXT: `vim preferences.txt`
-11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT: `vim sklls.txt`
+11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT: `vim skills.txt`
 12. Сделать коммит в одну строку: `git add . git commit - m 'add preferences.txt,add skills.txt'`
 13. Отправить сразу 2 файла на внешний репозиторий: `1git add . git commit -m "..."git push`
 14. На веб интерфейсе создать файл bug_report.txt: `нажать кн. "Eddit this file"`
