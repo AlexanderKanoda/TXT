@@ -1,1 +1,14 @@
-
+  Title: "When you click on the Register button on the home page, the registration form doesn't open"
+  Project: The website ABC
+  Severity: Blocker
+  Priority: High
+  Status: Open
+  Author: Alexander Kanoda
+  Performer: Thomas Anderson
+    STR:
+      1. Open the website url.....
+      2. Left clik the button Registration
+ Expected result:
+    01. Pressing the register button opens the registration form
+    02. The user fills in the form
+    03. The user registers on the website
